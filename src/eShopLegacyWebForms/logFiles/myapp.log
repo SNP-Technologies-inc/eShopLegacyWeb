@@ -1,0 +1,39 @@
+2023-06-07 10:12:50,522 [5] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37
+Application_BeginRequest
+
+2023-06-07 10:12:51,635 [5] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37
+Application_BeginRequest
+
+2023-06-07 10:12:58,756 [5] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37
+Now loading... /Default.aspx?size=10&index=0
+
+2023-06-22 14:44:31,674 [5] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Application_BeginRequest
+
+2023-06-22 14:44:32,730 [5] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Application_BeginRequest
+
+2023-06-22 14:44:38,747 [5] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+
+2023-06-22 14:44:40,210 [12] (null) DEBUG eShopLegacyWebForms.Global - /bundles/MsAjaxJs?v=D6VN0fHlwFSIWjbVzi6mZyE9Ls-4LNrSSYVGRU46XF81, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Application_BeginRequest
+
+2023-06-22 14:44:40,257 [5] (null) DEBUG eShopLegacyWebForms.Global - /bundles/WebFormsJs?v=N8tymL9KraMLGAMFuPycfH3pXe6uUlRXdhtYv8A_jUU1, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Application_BeginRequest
+
+2023-06-22 14:45:29,156 [9] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+Application_BeginRequest
+
+2023-06-22 14:45:29,944 [9] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+Application_BeginRequest
+
+2023-06-22 14:45:33,567 [9] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+Now loading... /Default.aspx?size=10&index=0
+
+2023-06-22 14:45:34,655 [18] (null) DEBUG eShopLegacyWebForms.Global - /bundles/MsAjaxJs?v=D6VN0fHlwFSIWjbVzi6mZyE9Ls-4LNrSSYVGRU46XF81, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+Application_BeginRequest
+
+2023-06-22 14:45:34,661 [6] (null) DEBUG eShopLegacyWebForms.Global - /bundles/WebFormsJs?v=N8tymL9KraMLGAMFuPycfH3pXe6uUlRXdhtYv8A_jUU1, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+Application_BeginRequest
+
